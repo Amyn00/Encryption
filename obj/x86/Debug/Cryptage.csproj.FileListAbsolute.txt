@@ -1,0 +1,38 @@
+C:\Users\a.mounjid\Desktop\Project\MyProject\PROJECT C#\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Form1.resources
+C:\Users\a.mounjid\Desktop\Project\MyProject\PROJECT C#\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Properties.Resources.resources
+C:\Users\a.mounjid\Desktop\Project\MyProject\PROJECT C#\Cryptage\Cryptage\obj\x86\Debug\Cryptage.csproj.GenerateResource.Cache
+C:\Users\a.mounjid\Desktop\Project\MyProject\PROJECT C#\Cryptage\Cryptage\bin\Debug\Cryptage.exe
+C:\Users\a.mounjid\Desktop\Project\MyProject\PROJECT C#\Cryptage\Cryptage\bin\Debug\Cryptage.pdb
+C:\Users\a.mounjid\Desktop\Project\MyProject\PROJECT C#\Cryptage\Cryptage\obj\x86\Debug\Cryptage.exe
+C:\Users\a.mounjid\Desktop\Project\MyProject\PROJECT C#\Cryptage\Cryptage\obj\x86\Debug\Cryptage.pdb
+C:\Users\a.mounjid\Desktop\Project\MyProject\PROJECT C#\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Form2.resources
+D:\COURS\Projet En Cours\Cryptage\Cryptage\bin\Debug\Cryptage.exe
+D:\COURS\Projet En Cours\Cryptage\Cryptage\bin\Debug\Cryptage.pdb
+D:\COURS\Projet En Cours\Cryptage\Cryptage\obj\x86\Debug\Cryptage.csprojResolveAssemblyReference.cache
+D:\COURS\Projet En Cours\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Form1.resources
+D:\COURS\Projet En Cours\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Form2.resources
+D:\COURS\Projet En Cours\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Properties.Resources.resources
+D:\COURS\Projet En Cours\Cryptage\Cryptage\obj\x86\Debug\Cryptage.csproj.GenerateResource.Cache
+D:\COURS\Projet En Cours\Cryptage\Cryptage\obj\x86\Debug\Cryptage.csproj.CoreCompileInputs.cache
+D:\COURS\Projet En Cours\Cryptage\Cryptage\obj\x86\Debug\Cryptage.exe
+D:\COURS\Projet En Cours\Cryptage\Cryptage\obj\x86\Debug\Cryptage.pdb
+D:\COURS\Projet Finie\Cryptage\Cryptage\bin\Debug\Cryptage.exe
+D:\COURS\Projet Finie\Cryptage\Cryptage\bin\Debug\Cryptage.pdb
+D:\COURS\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Form1.resources
+D:\COURS\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Form2.resources
+D:\COURS\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Properties.Resources.resources
+D:\COURS\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.csproj.GenerateResource.Cache
+D:\COURS\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.csproj.CoreCompileInputs.cache
+D:\COURS\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.exe
+D:\COURS\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.pdb
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\bin\Debug\Cryptage.exe.config
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\bin\Debug\Cryptage.exe
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\bin\Debug\Cryptage.pdb
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.csproj.AssemblyReference.cache
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Form1.resources
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Form2.resources
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.Properties.Resources.resources
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.csproj.GenerateResource.cache
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.csproj.CoreCompileInputs.cache
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.exe
+C:\whoami\Progetto\Projet Finie\Cryptage\Cryptage\obj\x86\Debug\Cryptage.pdb
